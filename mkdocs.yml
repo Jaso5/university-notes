@@ -1,0 +1,12 @@
+site_name: Jacob's Uni Notes
+
+theme: windmill-dark
+
+nav:
+  - Home: index.md
+  - Haskell:
+    - Introduction: haskell/haskell.md
+    - Types: haskell/types.md
+  - Propositional Logic:
+    - Basics: prop-logic/prop-logic.md
+  - C/C++: c.md
