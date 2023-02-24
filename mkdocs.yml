@@ -7,6 +7,8 @@ nav:
   - Haskell:
     - Introduction: haskell/haskell.md
     - Types: haskell/types.md
+    - Arrays: haskell/arrays.md
+    - Strings: haskell/strings.md
   - Propositional Logic:
     - Basics: prop-logic/prop-logic.md
   - C/C++: c.md
